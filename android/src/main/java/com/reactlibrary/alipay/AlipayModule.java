@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.reactlibrary.alipay;
 
 import com.alipay.sdk.app.EnvUtils;
 import com.alipay.sdk.app.H5PayCallback;

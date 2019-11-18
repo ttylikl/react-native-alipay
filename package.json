@@ -1,5 +1,5 @@
 {
-  "name": "@0x5e/react-native-alipay",
+  "name": "rnalipay",
   "version": "0.2.6",
   "description": "Alipay SDK for React Native. Support RN >= 0.47.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/0x5e/react-native-alipay.git"
+    "url": "git+ssh://git@github.com/ttylikl/react-native-alipay.git"
   },
   "types": "./index.d.ts",
   "keywords": [
@@ -20,7 +20,7 @@
   "peerDependencies": {
     "react-native": ">=0.20"
   },
-  "homepage": "https://github.com/0x5e/react-native-alipay",
+  "homepage": "https://github.com/ttylikl/react-native-alipay",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-jest": "^21.2.0",
