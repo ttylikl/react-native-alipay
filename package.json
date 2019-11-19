@@ -1,6 +1,6 @@
 {
   "name": "@ttylikl/rnalipay",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Alipay SDK for React Native. Support RN >= 0.47.",
   "main": "index.js",
   "scripts": {
